@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumeetmishra1
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning backend devlopment
+- 🌱 I’m currently learning frontend devlopment
 
 <!---
 sumeetmishra1/sumeetmishra1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

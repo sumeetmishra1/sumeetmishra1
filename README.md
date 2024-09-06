@@ -13,7 +13,7 @@
 - **Tools**: Git, GitHub, VSCode, npm, Webpack
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sumeetmishra1)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sumeet630)
 - 📧 [Email](mailto:sumitsfs0@gmail.com)
 
 ---

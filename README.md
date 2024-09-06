@@ -14,7 +14,7 @@
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sumeetmishra1)
-- 📧 [Email](mailto:sumeetmishra1@gmail.com)
+- 📧 [Email](mailto:sumitsfs0@gmail.com)
 
 ---
 
